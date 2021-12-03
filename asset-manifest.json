@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prajwal799.github.io/csb-qvbbn/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://prajwal799.github.io/csb-qvbbn/static/js/main.9a563cd9.chunk.js",
+    "main.js.map": "https://prajwal799.github.io/csb-qvbbn/static/js/main.9a563cd9.chunk.js.map",
+    "runtime-main.js": "https://prajwal799.github.io/csb-qvbbn/static/js/runtime-main.16a0587c.js",
+    "runtime-main.js.map": "https://prajwal799.github.io/csb-qvbbn/static/js/runtime-main.16a0587c.js.map",
+    "static/js/2.42e8eb9d.chunk.js": "https://prajwal799.github.io/csb-qvbbn/static/js/2.42e8eb9d.chunk.js",
+    "static/js/2.42e8eb9d.chunk.js.map": "https://prajwal799.github.io/csb-qvbbn/static/js/2.42e8eb9d.chunk.js.map",
+    "index.html": "https://prajwal799.github.io/csb-qvbbn/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://prajwal799.github.io/csb-qvbbn/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.42e8eb9d.chunk.js.LICENSE.txt": "https://prajwal799.github.io/csb-qvbbn/static/js/2.42e8eb9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a0587c.js",
+    "static/js/2.42e8eb9d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9a563cd9.chunk.js"
+  ]
+}
